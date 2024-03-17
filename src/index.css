@@ -1,0 +1,82 @@
+/* .btn{
+    background-color: red;
+} */
+.frequencyBox{
+    width: fit-content;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.freqTxt{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 2vh 0 2vh 0;
+    width: 11vw;
+}
+.dispfreq{
+    color: black;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 0 0 2vh 0;
+    width: 11vw;
+    height: 5vh;
+}
+.replaceBox{
+    margin: 0 0 2vh 2vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+}
+.repBox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 0 0 2vh 0;
+    width: 11vw;
+    height: 5vh;
+    border: 2px solid black;
+}
+.row2{
+    background-color: rgb(231, 231, 231);
+    border: 1px solid grey;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 50vw;
+    border-radius: 10px;
+}
+.btn1{
+    background-color: rgb(133, 133, 133);
+    border: 2px solid rgb(78, 78, 78);
+    margin: 0 0 2vh 0;
+}
+.contaierDBMode{
+    padding: 0 0 0 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100vw;
+}
+.checkBox{
+    width: 17vw;
+}
+.mainText{
+    border: 1px solid grey;
+}
